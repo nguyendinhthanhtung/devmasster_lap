@@ -1,0 +1,23 @@
+==>table: tạo cấu trúc bảng 
+-boder,width ( độ rộng ), align (canh lề),cellspacing,cellpadding,
++ thead:vùng tiêu đề bảng 
+tr: dòng hàm
+th: cột/ô/
+++colspan: gộp ô theo cột 
+++rownspan: gộp ô theo hàng
++tbody: vùng nội dung bảng 
+    tr:
+        th/td:
+    tfoot: vùng cuối bảng ( thống kê )
+ ==> form: 
+    -input:
+    ++id,name,value 
+    ++tyle.
+       text,paswword,email,tel,number,radio,checkbox,file,image,button,date,time,search
+       color,range, 
+    -select:
+        ++id,name
+        element: option/otpgroup
+                value 
+    -textarea:
+        ++attr:id,name

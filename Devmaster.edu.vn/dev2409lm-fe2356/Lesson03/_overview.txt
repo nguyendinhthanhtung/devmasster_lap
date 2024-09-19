@@ -1,0 +1,14 @@
+các thẻ bố cụ nội dung
+KHỐI LỚN 
+header
+    nav 
+aside 
+article
+section
+    aside,article 
+footer
+--------------
+KHỐI NHỎ 
+     div -> khối 
+     span -> khối trên dòng 
+-----------------

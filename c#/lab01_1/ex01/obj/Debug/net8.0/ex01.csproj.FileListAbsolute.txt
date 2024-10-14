@@ -1,0 +1,14 @@
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\bin\Debug\net8.0\ex01.exe
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\bin\Debug\net8.0\ex01.deps.json
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\bin\Debug\net8.0\ex01.runtimeconfig.json
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\bin\Debug\net8.0\ex01.dll
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\bin\Debug\net8.0\ex01.pdb
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.GeneratedMSBuildEditorConfig.editorconfig
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.AssemblyInfoInputs.cache
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.AssemblyInfo.cs
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.csproj.CoreCompileInputs.cache
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.dll
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\refint\ex01.dll
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.pdb
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ex01.genruntimeconfig.cache
+F:\Devmaster.edu.vn\c#\lab01_1\ex01\obj\Debug\net8.0\ref\ex01.dll

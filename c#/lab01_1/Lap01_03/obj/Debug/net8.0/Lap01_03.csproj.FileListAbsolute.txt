@@ -1,0 +1,14 @@
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\bin\Debug\net8.0\Lap01_03.exe
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\bin\Debug\net8.0\Lap01_03.deps.json
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\bin\Debug\net8.0\Lap01_03.runtimeconfig.json
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\bin\Debug\net8.0\Lap01_03.dll
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\bin\Debug\net8.0\Lap01_03.pdb
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.GeneratedMSBuildEditorConfig.editorconfig
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.AssemblyInfoInputs.cache
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.AssemblyInfo.cs
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.csproj.CoreCompileInputs.cache
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.dll
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\refint\Lap01_03.dll
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.pdb
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\Lap01_03.genruntimeconfig.cache
+F:\Devmaster.edu.vn\c#\lab01_1\Lap01_03\obj\Debug\net8.0\ref\Lap01_03.dll

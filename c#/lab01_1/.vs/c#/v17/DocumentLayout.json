@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14E0BE8C-0097-46D6-9808-5D69E6D978BB}|Lab01_04\\Lab01_04.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\lab01_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14E0BE8C-0097-46D6-9808-5D69E6D978BB}|Lab01_04\\Lab01_04.csproj|solutionrelative:lab01_04\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C341702-D712-4C13-83C4-FBFBEF46D10F}|Lap01_03\\Lap01_03.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\lap01_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C341702-D712-4C13-83C4-FBFBEF46D10F}|Lap01_03\\Lap01_03.csproj|solutionrelative:lap01_03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A226AAE5-ACFD-4980-BF6B-3032E736683E}|Lab01_02\\Lab01_02.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\lab01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A226AAE5-ACFD-4980-BF6B-3032E736683E}|Lab01_02\\Lab01_02.csproj|solutionrelative:lab01_02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1A433A-9143-4AF2-ACBF-E3566ADCD3F9}|..\\Lab01_2\\Lab01_2.csproj|f:\\devmaster.edu.vn\\c#\\lab01_2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A226AAE5-ACFD-4980-BF6B-3032E736683E}|Lab01_02\\Lab01_02.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\lab01_02\\lab01_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A226AAE5-ACFD-4980-BF6B-3032E736683E}|Lab01_02\\Lab01_02.csproj|solutionrelative:lab01_02\\lab01_02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30AAB46-AD11-49A6-B513-42DC92706B9E}|ex02\\ex02.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A30AAB46-AD11-49A6-B513-42DC92706B9E}|ex02\\ex02.csproj|solutionrelative:ex02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A30AAB46-AD11-49A6-B513-42DC92706B9E}|ex02\\ex02.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\ex02\\ex02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A30AAB46-AD11-49A6-B513-42DC92706B9E}|ex02\\ex02.csproj|solutionrelative:ex02\\ex02.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A419B6C-EB83-4D9E-B023-1CBAEAD151BD}|ex01\\ex01.csproj|f:\\devmaster.edu.vn\\c#\\lab01_1\\ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A419B6C-EB83-4D9E-B023-1CBAEAD151BD}|ex01\\ex01.csproj|solutionrelative:ex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Lab01_02",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lab01_02\\Lab01_02.csproj",
+              "RelativeDocumentMoniker": "Lab01_02\\Lab01_02.csproj",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lab01_02\\Lab01_02.csproj",
+              "RelativeToolTip": "Lab01_02\\Lab01_02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T03:17:49.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ex02",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\ex02\\ex02.csproj",
+              "RelativeDocumentMoniker": "ex02\\ex02.csproj",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\ex02\\ex02.csproj",
+              "RelativeToolTip": "ex02\\ex02.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T03:06:25.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\ex02\\Program.cs",
+              "RelativeDocumentMoniker": "ex02\\Program.cs",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\ex02\\Program.cs",
+              "RelativeToolTip": "ex02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:04:26.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\ex01\\Program.cs",
+              "RelativeDocumentMoniker": "ex01\\Program.cs",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\ex01\\Program.cs",
+              "RelativeToolTip": "ex01\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:54:20.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lab01_04\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01_04\\Program.cs",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lab01_04\\Program.cs",
+              "RelativeToolTip": "Lab01_04\\Program.cs",
+              "ViewState": "AQIAAAIAAABgzMzMzMw3wAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:33:46.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lap01_03\\Program.cs",
+              "RelativeDocumentMoniker": "Lap01_03\\Program.cs",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lap01_03\\Program.cs",
+              "RelativeToolTip": "Lap01_03\\Program.cs",
+              "ViewState": "AQIAAAAAAAANZmZmZmYkwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:23:49.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lab01_02\\Program.cs",
+              "RelativeDocumentMoniker": "Lab01_02\\Program.cs",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\lab01_1\\Lab01_02\\Program.cs",
+              "RelativeToolTip": "Lab01_02\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:13:01.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Devmaster.edu.vn\\c#\\Lab01_2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Lab01_2\\Program.cs",
+              "ToolTip": "F:\\Devmaster.edu.vn\\c#\\Lab01_2\\Program.cs",
+              "RelativeToolTip": "..\\Lab01_2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:09:48.15Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

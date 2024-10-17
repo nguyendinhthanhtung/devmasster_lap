@@ -1,0 +1,15 @@
+F:\devmasster\c#\Lab25\Lab4.3\bin\Debug\net8.0\Lab4.3.exe
+F:\devmasster\c#\Lab25\Lab4.3\bin\Debug\net8.0\Lab4.3.deps.json
+F:\devmasster\c#\Lab25\Lab4.3\bin\Debug\net8.0\Lab4.3.runtimeconfig.json
+F:\devmasster\c#\Lab25\Lab4.3\bin\Debug\net8.0\Lab4.3.dll
+F:\devmasster\c#\Lab25\Lab4.3\bin\Debug\net8.0\Lab4.3.pdb
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.AssemblyInfoInputs.cache
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.AssemblyInfo.cs
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.sourcelink.json
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.dll
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\refint\Lab4.3.dll
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.pdb
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\Lab4.3.genruntimeconfig.cache
+F:\devmasster\c#\Lab25\Lab4.3\obj\Debug\net8.0\ref\Lab4.3.dll

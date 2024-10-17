@@ -1,0 +1,15 @@
+F:\devmasster\c#\Lab25\BT4.2\bin\Debug\net8.0\BT4.2.exe
+F:\devmasster\c#\Lab25\BT4.2\bin\Debug\net8.0\BT4.2.deps.json
+F:\devmasster\c#\Lab25\BT4.2\bin\Debug\net8.0\BT4.2.runtimeconfig.json
+F:\devmasster\c#\Lab25\BT4.2\bin\Debug\net8.0\BT4.2.dll
+F:\devmasster\c#\Lab25\BT4.2\bin\Debug\net8.0\BT4.2.pdb
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.AssemblyInfoInputs.cache
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.AssemblyInfo.cs
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.sourcelink.json
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.dll
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\refint\BT4.2.dll
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.pdb
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\BT4.2.genruntimeconfig.cache
+F:\devmasster\c#\Lab25\BT4.2\obj\Debug\net8.0\ref\BT4.2.dll

@@ -1,0 +1,15 @@
+F:\devmasster\c#\Lab25\Lab25\bin\Debug\net8.0\Lab25.exe
+F:\devmasster\c#\Lab25\Lab25\bin\Debug\net8.0\Lab25.deps.json
+F:\devmasster\c#\Lab25\Lab25\bin\Debug\net8.0\Lab25.runtimeconfig.json
+F:\devmasster\c#\Lab25\Lab25\bin\Debug\net8.0\Lab25.dll
+F:\devmasster\c#\Lab25\Lab25\bin\Debug\net8.0\Lab25.pdb
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.AssemblyInfoInputs.cache
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.AssemblyInfo.cs
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.sourcelink.json
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.dll
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\refint\Lab25.dll
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.pdb
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\Lab25.genruntimeconfig.cache
+F:\devmasster\c#\Lab25\Lab25\obj\Debug\net8.0\ref\Lab25.dll

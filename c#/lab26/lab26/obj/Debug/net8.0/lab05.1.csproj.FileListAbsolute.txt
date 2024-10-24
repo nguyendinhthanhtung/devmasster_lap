@@ -1,0 +1,15 @@
+F:\devmasster\c#\lab26\lab26\bin\Debug\net8.0\lab05.1.exe
+F:\devmasster\c#\lab26\lab26\bin\Debug\net8.0\lab05.1.deps.json
+F:\devmasster\c#\lab26\lab26\bin\Debug\net8.0\lab05.1.runtimeconfig.json
+F:\devmasster\c#\lab26\lab26\bin\Debug\net8.0\lab05.1.dll
+F:\devmasster\c#\lab26\lab26\bin\Debug\net8.0\lab05.1.pdb
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.AssemblyInfoInputs.cache
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.AssemblyInfo.cs
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.sourcelink.json
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.dll
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\refint\lab05.1.dll
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.pdb
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\lab05.1.genruntimeconfig.cache
+F:\devmasster\c#\lab26\lab26\obj\Debug\net8.0\ref\lab05.1.dll

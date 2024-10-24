@@ -1,0 +1,15 @@
+F:\devmasster\c#\Lessson27\Lessson27\bin\Debug\net8.0\Lessson27.exe
+F:\devmasster\c#\Lessson27\Lessson27\bin\Debug\net8.0\Lessson27.deps.json
+F:\devmasster\c#\Lessson27\Lessson27\bin\Debug\net8.0\Lessson27.runtimeconfig.json
+F:\devmasster\c#\Lessson27\Lessson27\bin\Debug\net8.0\Lessson27.dll
+F:\devmasster\c#\Lessson27\Lessson27\bin\Debug\net8.0\Lessson27.pdb
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.AssemblyInfoInputs.cache
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.AssemblyInfo.cs
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.sourcelink.json
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.dll
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\refint\Lessson27.dll
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.pdb
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\Lessson27.genruntimeconfig.cache
+F:\devmasster\c#\Lessson27\Lessson27\obj\Debug\net8.0\ref\Lessson27.dll

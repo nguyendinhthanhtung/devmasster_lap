@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\devmasster\\c#\\Lessson27\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9775594F-DAB0-4727-B566-74547EAE4274}|BT7.2\\BT7.2.csproj|f:\\devmasster\\c#\\lessson27\\bt7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9775594F-DAB0-4727-B566-74547EAE4274}|BT7.2\\BT7.2.csproj|solutionrelative:bt7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|f:\\devmasster\\c#\\lessson27\\bt07.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|solutionrelative:bt07.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9775594F-DAB0-4727-B566-74547EAE4274}|BT7.2\\BT7.2.csproj|f:\\devmasster\\c#\\lessson27\\bt7.2\\bt7.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9775594F-DAB0-4727-B566-74547EAE4274}|BT7.2\\BT7.2.csproj|solutionrelative:bt7.2\\bt7.2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|f:\\devmasster\\c#\\lessson27\\bt07.1\\anthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|solutionrelative:bt07.1\\anthit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|f:\\devmasster\\c#\\lessson27\\bt07.1\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|solutionrelative:bt07.1\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556D52B2-8735-4CDF-87F8-CFE2F50A8E33}|Lab7.4\\Lab7.4.csproj|f:\\devmasster\\c#\\lessson27\\lab7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556D52B2-8735-4CDF-87F8-CFE2F50A8E33}|Lab7.4\\Lab7.4.csproj|solutionrelative:lab7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{513951CE-9B45-43B9-A908-5A1D13EEA43B}|Lab07.3\\Lab07.3.csproj|f:\\devmasster\\c#\\lessson27\\lab07.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513951CE-9B45-43B9-A908-5A1D13EEA43B}|Lab07.3\\Lab07.3.csproj|solutionrelative:lab07.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Documents\\Zalo Received Files\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C243AA-D6BF-48E4-B3B3-93EED5D86B85}|Lab07.2\\Lab07.2.csproj|f:\\devmasster\\c#\\lessson27\\lab07.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C243AA-D6BF-48E4-B3B3-93EED5D86B85}|Lab07.2\\Lab07.2.csproj|solutionrelative:lab07.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24C243AA-D6BF-48E4-B3B3-93EED5D86B85}|Lab07.2\\Lab07.2.csproj|f:\\devmasster\\c#\\lessson27\\lab07.2\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24C243AA-D6BF-48E4-B3B3-93EED5D86B85}|Lab07.2\\Lab07.2.csproj|solutionrelative:lab07.2\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6A6B43-150A-4D41-A82E-BEB5C9C6CB23}|Lessson27\\Lab07.1.csproj|f:\\devmasster\\c#\\lessson27\\lessson27\\lab07.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DE6A6B43-150A-4D41-A82E-BEB5C9C6CB23}|Lessson27\\Lab07.1.csproj|solutionrelative:lessson27\\lab07.1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6A6B43-150A-4D41-A82E-BEB5C9C6CB23}|Lessson27\\Lab07.1.csproj|f:\\devmasster\\c#\\lessson27\\lessson27\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6A6B43-150A-4D41-A82E-BEB5C9C6CB23}|Lessson27\\Lab07.1.csproj|solutionrelative:lessson27\\dev.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE6A6B43-150A-4D41-A82E-BEB5C9C6CB23}|Lessson27\\Lab07.1.csproj|f:\\devmasster\\c#\\lessson27\\lessson27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE6A6B43-150A-4D41-A82E-BEB5C9C6CB23}|Lessson27\\Lab07.1.csproj|solutionrelative:lessson27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BT7.2",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\BT7.2.csproj",
+              "RelativeDocumentMoniker": "BT7.2\\BT7.2.csproj",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\BT7.2.csproj",
+              "RelativeToolTip": "BT7.2\\BT7.2.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T03:02:49.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\Program.cs",
+              "RelativeDocumentMoniker": "BT7.2\\Program.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\Program.cs",
+              "RelativeToolTip": "BT7.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:02:44.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnThit.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\AnThit.cs",
+              "RelativeDocumentMoniker": "BT07.1\\AnThit.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\AnThit.cs",
+              "RelativeToolTip": "BT07.1\\AnThit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:46:44.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AnCo.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\AnCo.cs",
+              "RelativeDocumentMoniker": "BT07.1\\AnCo.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\AnCo.cs",
+              "RelativeToolTip": "BT07.1\\AnCo.cs",
+              "ViewState": "AQIAACQAAAAAmpmZmZkjwCwAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:46:30.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\Program.cs",
+              "RelativeDocumentMoniker": "BT07.1\\Program.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\Program.cs",
+              "RelativeToolTip": "BT07.1\\Program.cs",
+              "ViewState": "AQIAAAEAAABAZmZmZmYkwA8AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:45:32.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lab7.4\\Program.cs",
+              "RelativeDocumentMoniker": "Lab7.4\\Program.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lab7.4\\Program.cs",
+              "RelativeToolTip": "Lab7.4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:41:09.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Program.cs",
+              "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:40:13.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lab07.3\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07.3\\Program.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lab07.3\\Program.cs",
+              "RelativeToolTip": "Lab07.3\\Program.cs",
+              "ViewState": "AQIAABwAAAAAZmZmZmYswAQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:38:28.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dev.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lab07.2\\dev.cs",
+              "RelativeDocumentMoniker": "Lab07.2\\dev.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lab07.2\\dev.cs",
+              "RelativeToolTip": "Lab07.2\\dev.cs",
+              "ViewState": "AQIAAAkAAAAALDMzMzPzvxUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:26:00.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lab07.2\\Program.cs",
+              "RelativeDocumentMoniker": "Lab07.2\\Program.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lab07.2\\Program.cs",
+              "RelativeToolTip": "Lab07.2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:25:40.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Lab07.1.csproj",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lessson27\\Lab07.1.csproj",
+              "RelativeDocumentMoniker": "Lessson27\\Lab07.1.csproj",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lessson27\\Lab07.1.csproj",
+              "RelativeToolTip": "Lessson27\\Lab07.1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T02:09:33.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "dev.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lessson27\\dev.cs",
+              "RelativeDocumentMoniker": "Lessson27\\dev.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lessson27\\dev.cs",
+              "RelativeToolTip": "Lessson27\\dev.cs",
+              "ViewState": "AQIAAAkAAAAAJjMzMzPzvxYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:04:24.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lessson27\\Program.cs",
+              "RelativeDocumentMoniker": "Lessson27\\Program.cs",
+              "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lessson27\\Program.cs",
+              "RelativeToolTip": "Lessson27\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAEDMzMzPjvyAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:00:10.642Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

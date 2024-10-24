@@ -1,0 +1,15 @@
+F:\devmasster\c#\Lessson27\Lab7.4\bin\Debug\net8.0\Lab7.4.exe
+F:\devmasster\c#\Lessson27\Lab7.4\bin\Debug\net8.0\Lab7.4.deps.json
+F:\devmasster\c#\Lessson27\Lab7.4\bin\Debug\net8.0\Lab7.4.runtimeconfig.json
+F:\devmasster\c#\Lessson27\Lab7.4\bin\Debug\net8.0\Lab7.4.dll
+F:\devmasster\c#\Lessson27\Lab7.4\bin\Debug\net8.0\Lab7.4.pdb
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.AssemblyInfoInputs.cache
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.AssemblyInfo.cs
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.sourcelink.json
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.dll
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\refint\Lab7.4.dll
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.pdb
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\Lab7.4.genruntimeconfig.cache
+F:\devmasster\c#\Lessson27\Lab7.4\obj\Debug\net8.0\ref\Lab7.4.dll

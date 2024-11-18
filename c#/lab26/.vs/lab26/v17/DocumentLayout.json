@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{D2CF6148-9AC9-4973-999C-E27574958C6B}|Lab5.2\\Lab5.2.csproj|solutionrelative:lab5.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1C56098A-12FD-4066-9474-A77D902FD302}|lab26\\lab26.csproj|f:\\devmasster\\c#\\lab26\\lab26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1C56098A-12FD-4066-9474-A77D902FD302}|lab26\\lab26.csproj|solutionrelative:lab26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1C56098A-12FD-4066-9474-A77D902FD302}|lab26\\lab05.1.csproj|f:\\devmasster\\c#\\lab26\\lab26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C56098A-12FD-4066-9474-A77D902FD302}|lab26\\lab05.1.csproj|solutionrelative:lab26\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -47,8 +47,7 @@
               "RelativeToolTip": "lab26\\Program.cs",
               "ViewState": "AQIAAAUAAACAlpmZmZkhwAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T03:14:44.856Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T03:14:44.856Z"
             }
           ]
         }

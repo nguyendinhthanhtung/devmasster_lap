@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|f:\\devmasster\\asp.net\\netcoremvclab03\\netcoremvclab03\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|solutionrelative:netcoremvclab03\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|f:\\devmasster\\asp.net\\netcoremvclab03\\netcoremvclab03\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|solutionrelative:netcoremvclab03\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\devmasster\\ASP.Net\\Lab 03\\Lab 03\\Controllers\\BookController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|f:\\devmasster\\asp.net\\netcoremvclab03\\netcoremvclab03\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|solutionrelative:netcoremvclab03\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\devmasster\\ASP.Net\\Lab 03\\Lab 03\\Models\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|f:\\devmasster\\asp.net\\netcoremvclab03\\netcoremvclab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDBF531E-3D5B-431E-8380-08B4C3AE3975}|NetCoreMVCLab03\\NetCoreMVCLab03.csproj|solutionrelative:netcoremvclab03\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab03\\Views\\Book\\Index.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab03\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAaGZmZmYGwCgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T03:52:48.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLab03\\Controllers\\HomeController.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "NetCoreMVCLab03\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAABYPQAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:20:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLab03\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Controllers\\BookController.cs",
+              "RelativeToolTip": "NetCoreMVCLab03\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:11:17.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\Lab 03\\Lab 03\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "..\\Lab 03\\Lab 03\\Controllers\\BookController.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\Lab 03\\Lab 03\\Controllers\\BookController.cs",
+              "RelativeToolTip": "..\\Lab 03\\Lab 03\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:22:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\Lab 03\\Lab 03\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "..\\Lab 03\\Lab 03\\Models\\Book.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\Lab 03\\Lab 03\\Models\\Book.cs",
+              "RelativeToolTip": "..\\Lab 03\\Lab 03\\Models\\Book.cs",
+              "ViewState": "AQIAAAQAAACgJjMzMzMbwAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:11:41.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLab03\\Models\\Book.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab03\\NetCoreMVCLab03\\Models\\Book.cs",
+              "RelativeToolTip": "NetCoreMVCLab03\\Models\\Book.cs",
+              "ViewState": "AQIAAEIAAAAAl5mZmZkjwFcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T03:12:07.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

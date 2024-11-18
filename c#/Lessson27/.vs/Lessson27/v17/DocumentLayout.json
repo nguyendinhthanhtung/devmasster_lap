@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "F:\\devmasster\\c#\\Lessson27\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{513951CE-9B45-43B9-A908-5A1D13EEA43B}|Lab07.3\\Lab07.3.csproj|f:\\devmasster\\c#\\lessson27\\lab07.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{513951CE-9B45-43B9-A908-5A1D13EEA43B}|Lab07.3\\Lab07.3.csproj|solutionrelative:lab07.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{556D52B2-8735-4CDF-87F8-CFE2F50A8E33}|Lab7.4\\Lab7.4.csproj|f:\\devmasster\\c#\\lessson27\\lab7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{556D52B2-8735-4CDF-87F8-CFE2F50A8E33}|Lab7.4\\Lab7.4.csproj|solutionrelative:lab7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9775594F-DAB0-4727-B566-74547EAE4274}|BT7.2\\BT7.2.csproj|f:\\devmasster\\c#\\lessson27\\bt7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9775594F-DAB0-4727-B566-74547EAE4274}|BT7.2\\BT7.2.csproj|solutionrelative:bt7.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,14 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|f:\\devmasster\\c#\\lessson27\\bt07.1\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2645AF1-EF11-4E60-A7F1-76DD781DA77D}|BT07.1\\BT07.1.csproj|solutionrelative:bt07.1\\anco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{556D52B2-8735-4CDF-87F8-CFE2F50A8E33}|Lab7.4\\Lab7.4.csproj|f:\\devmasster\\c#\\lessson27\\lab7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{556D52B2-8735-4CDF-87F8-CFE2F50A8E33}|Lab7.4\\Lab7.4.csproj|solutionrelative:lab7.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{513951CE-9B45-43B9-A908-5A1D13EEA43B}|Lab07.3\\Lab07.3.csproj|f:\\devmasster\\c#\\lessson27\\lab07.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{513951CE-9B45-43B9-A908-5A1D13EEA43B}|Lab07.3\\Lab07.3.csproj|solutionrelative:lab07.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dell\\Documents\\Zalo Received Files\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -61,7 +61,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -69,20 +69,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BT7.2",
+              "DocumentIndex": 4,
+              "Title": "BT7.2.csproj",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\BT7.2.csproj",
               "RelativeDocumentMoniker": "BT7.2\\BT7.2.csproj",
               "ToolTip": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\BT7.2.csproj",
               "RelativeToolTip": "BT7.2\\BT7.2.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T03:02:49.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T03:02:49.82Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT7.2\\Program.cs",
               "RelativeDocumentMoniker": "BT7.2\\Program.cs",
@@ -95,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AnThit.cs",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\AnThit.cs",
               "RelativeDocumentMoniker": "BT07.1\\AnThit.cs",
@@ -103,12 +102,11 @@
               "RelativeToolTip": "BT07.1\\AnThit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:46:44.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:46:44.169Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "AnCo.cs",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\AnCo.cs",
               "RelativeDocumentMoniker": "BT07.1\\AnCo.cs",
@@ -116,12 +114,11 @@
               "RelativeToolTip": "BT07.1\\AnCo.cs",
               "ViewState": "AQIAACQAAAAAmpmZmZkjwCwAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:46:30.83Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:46:30.83Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\BT07.1\\Program.cs",
               "RelativeDocumentMoniker": "BT07.1\\Program.cs",
@@ -129,18 +126,17 @@
               "RelativeToolTip": "BT07.1\\Program.cs",
               "ViewState": "AQIAAAEAAABAZmZmZmYkwA8AAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:45:32.332Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:45:32.332Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lab7.4\\Program.cs",
               "RelativeDocumentMoniker": "Lab7.4\\Program.cs",
               "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lab7.4\\Program.cs",
               "RelativeToolTip": "Lab7.4\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:41:09.477Z",
               "EditorCaption": ""
@@ -153,18 +149,17 @@
               "ToolTip": "C:\\Users\\Dell\\Documents\\Zalo Received Files\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:40:13.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:40:13.204Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\devmasster\\c#\\Lessson27\\Lab07.3\\Program.cs",
               "RelativeDocumentMoniker": "Lab07.3\\Program.cs",
               "ToolTip": "F:\\devmasster\\c#\\Lessson27\\Lab07.3\\Program.cs",
               "RelativeToolTip": "Lab07.3\\Program.cs",
-              "ViewState": "AQIAABwAAAAAZmZmZmYswAQAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T02:38:28.367Z",
               "EditorCaption": ""
@@ -191,8 +186,7 @@
               "RelativeToolTip": "Lab07.2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T02:25:40.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:25:40.289Z"
             },
             {
               "$type": "Document",
@@ -204,8 +198,7 @@
               "RelativeToolTip": "Lessson27\\Lab07.1.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T02:09:33.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T02:09:33.264Z"
             },
             {
               "$type": "Document",

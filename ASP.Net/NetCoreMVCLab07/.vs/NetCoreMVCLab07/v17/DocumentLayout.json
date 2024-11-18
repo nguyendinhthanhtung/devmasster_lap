@@ -1,0 +1,286 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\shared\\_admins.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\shared\\_navbar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\shared\\_preloader.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\category\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\controllers\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\controllers\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\areas\\admins\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|f:\\devmasster\\asp.net\\netcoremvclab07\\netcoremvclab07\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CDD5990D-6526-400A-9F27-F59A945DC022}|NetCoreMVCLab07\\NetCoreMVCLab07.csproj|solutionrelative:netcoremvclab07\\views\\shared\\_main.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Sidebar.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Sidebar.cshtml",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAAAIMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:40:20.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Preloader.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Preloader.cshtml",
+              "ViewState": "AQIAAFsAAACA/////78iwIMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:41:25.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Program.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Program.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Program.cs",
+              "RelativeToolTip": "NetCoreMVCLab07\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:58:42.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Navbar.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Navbar.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Navbar.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Navbar.cshtml",
+              "ViewState": "AQIAAGoAAACAAgAAAMAtwIMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:41:05.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Category\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T02:07:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Category.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Category.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Category.cs",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T02:06:32.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Admins.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Shared\\_Admins.cshtml",
+              "ViewState": "AQIAAEgAAACApZmZmdkhwFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:42:35.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Dashboard.cs",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Dashboard.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Dashboard.cs",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Controllers\\Dashboard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:55:37.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:54:25.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:53:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Views\\_ViewImports.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:37:08.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\ScaffoldingReadMe.txt",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "NetCoreMVCLab07\\ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-18T01:41:25.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Views\\_ViewStart.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:37:09.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Areas\\Admins\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:56:50.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:31:10.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_Main.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\Shared\\_Main.cshtml",
+              "RelativeDocumentMoniker": "NetCoreMVCLab07\\Views\\Shared\\_Main.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\NetCoreMVCLab07\\NetCoreMVCLab07\\Views\\Shared\\_Main.cshtml",
+              "RelativeToolTip": "NetCoreMVCLab07\\Views\\Shared\\_Main.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-18T01:35:28.657Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

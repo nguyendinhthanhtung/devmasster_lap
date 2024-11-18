@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\devmasster\\ASP.Net\\Lesson 37\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{245DCF36-8560-404D-860E-36F0E0E80FEA}|Lesson 37\\Lesson 37.csproj|f:\\devmasster\\asp.net\\lesson 37\\lesson 37\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{245DCF36-8560-404D-860E-36F0E0E80FEA}|Lesson 37\\Lesson 37.csproj|solutionrelative:lesson 37\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245DCF36-8560-404D-860E-36F0E0E80FEA}|Lesson 37\\Lesson 37.csproj|f:\\devmasster\\asp.net\\lesson 37\\lesson 37\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{245DCF36-8560-404D-860E-36F0E0E80FEA}|Lesson 37\\Lesson 37.csproj|solutionrelative:lesson 37\\views\\demo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{245DCF36-8560-404D-860E-36F0E0E80FEA}|Lesson 37\\Lesson 37.csproj|f:\\devmasster\\asp.net\\lesson 37\\lesson 37\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245DCF36-8560-404D-860E-36F0E0E80FEA}|Lesson 37\\Lesson 37.csproj|solutionrelative:lesson 37\\controllers\\democontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\Lesson 37\\Lesson 37\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lesson 37\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\Lesson 37\\Lesson 37\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lesson 37\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAowCgAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:45:49.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\Lesson 37\\Lesson 37\\Views\\Demo\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lesson 37\\Views\\Demo\\Index.cshtml",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\Lesson 37\\Lesson 37\\Views\\Demo\\Index.cshtml",
+              "RelativeToolTip": "Lesson 37\\Views\\Demo\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-11T02:45:27.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoController.cs",
+              "DocumentMoniker": "F:\\devmasster\\ASP.Net\\Lesson 37\\Lesson 37\\Controllers\\DemoController.cs",
+              "RelativeDocumentMoniker": "Lesson 37\\Controllers\\DemoController.cs",
+              "ToolTip": "F:\\devmasster\\ASP.Net\\Lesson 37\\Lesson 37\\Controllers\\DemoController.cs",
+              "RelativeToolTip": "Lesson 37\\Controllers\\DemoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T02:44:11.435Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

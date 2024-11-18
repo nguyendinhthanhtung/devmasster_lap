@@ -1,0 +1,15 @@
+F:\devmasster\c#\lab08\lab08\bin\Debug\net8.0\lab08.exe
+F:\devmasster\c#\lab08\lab08\bin\Debug\net8.0\lab08.deps.json
+F:\devmasster\c#\lab08\lab08\bin\Debug\net8.0\lab08.runtimeconfig.json
+F:\devmasster\c#\lab08\lab08\bin\Debug\net8.0\lab08.dll
+F:\devmasster\c#\lab08\lab08\bin\Debug\net8.0\lab08.pdb
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.GeneratedMSBuildEditorConfig.editorconfig
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfoInputs.cache
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.AssemblyInfo.cs
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.csproj.CoreCompileInputs.cache
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.sourcelink.json
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.dll
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\refint\lab08.dll
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.pdb
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\lab08.genruntimeconfig.cache
+F:\devmasster\c#\lab08\lab08\obj\Debug\net8.0\ref\lab08.dll
